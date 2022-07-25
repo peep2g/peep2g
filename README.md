@@ -4,7 +4,7 @@
   <strong>Olá! 👋</strong>   
 </p>
 <p align="left">
-  Meu nome é Pedro Gomes, sou <strong>Desenvolvedor Front-end</strong> e <strong>estudante de Sistemas para Internet</strong>.
+  Meu nome é Pedro Gomes, sou <strong>Desenvolvedor Front-end</strong> e <strong>Estudante de Sistemas para Internet</strong>.
   No momento estou estudando e procurando minha primeira oportunidade profissional.
 </p>
 
