@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong>.
+  🚀 Tecnologias: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.
 </p>
 
 <p align="left">
