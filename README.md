@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Adobe XD</strong>.
+  🛠️ Ferramentas: <strong>Visual Studio Code</strong>, <strong>Figma</strong>.
 </p>
 
 <p align="left">
