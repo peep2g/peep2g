@@ -1,4 +1,4 @@
-<img src="https://github.com/peep2g/peep2g/blob/main/design_components.svg" align="right" min-width="300px" max-width="550px" width="300px">
+<img src="https://github.com/peep2g/peep2g/blob/main/design_components.svg">
 
 <p align="left">
   <strong>Olá! 👋</strong>   
