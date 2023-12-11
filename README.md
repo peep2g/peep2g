@@ -4,7 +4,7 @@
   <strong>Olá! 👋</strong>   
 </p>
 <p align="left">
-  Meu nome é Pedro Gomes, sou um <strong>UI/UX Design</strong> e <strong>Estudante de cursos como: Design Circuit, UI Expert, Framer Skills</strong>.
+  Meu nome é Pedro Gomes, sou um <strong>UI/UX Design</strong> e <strong>Estudante da Design Circuit</strong>.
   No momento estou estudando e procurando minha primeira oportunidade profissional.
 </p>
 <p align="left">
